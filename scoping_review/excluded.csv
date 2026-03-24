@@ -1,0 +1,64 @@
+﻿,txt,title,Reason for the exclusion
+1,Sushma (2024),Analyzing Intrinsic Molecular Dynamics in Alkyl Azoxybenzene Compounds using Functional Data Analysis for Intermolecular Potentials and the Odd-Even ‚Ä¶,Wrong publication type
+2,Wang (2024),Next-generation functional data analysis for imaging and spatial data,Wrong publication type
+3,Hernandez (2024),VDPO: Working with and Analyzing Functional Data of Varying Lengths,Wrong publication type
+4,Qiu (2024),Nonparametric Estimation of Repeated Densities with Heterogeneous Sample Sizes,No clinical applications
+5,López Candelaria (2025),scFPC-DE: Robust Differential Expression Analysis Along Single Cell Trajectories via Functional Principal Component Analysis,No clinical applications
+6,Jiang (2025),Tutorial on Bayesian Functional Regression Using Stan,No clinical applications
+7,Shi (2025),Mapping-to-Parameter nonlinear functional regression with Iterative Local B-spline knot placement,No clinical applications
+8,Kanjilal (2025),Genomic Anomaly Detection with Functional Data Analysis,No clinical applications
+9,Yeh (2025),Variable Selection in Multivariate Functional Linear Regression,No clinical applications
+10,Feldl (2025),Statistical end-to-end analysis of large-scale microbial growth data with DGrowthR,No clinical applications
+11,Winnifrith (2025),Development of a fluorescence-based assay for RecBCD activity using functional data analysis and design of experiments,No clinical applications
+12,Shang (2025),Classifying infinite-dimensional data with unified basis functions: An effective machine learning approach,No clinical applications
+13,Ah-Pine (2025),On using derivatives and multiple kernel methods for clustering and classifying functional data,No clinical applications
+14,Gregorich (2024),Flexible parametrization of graph-theoretical features from individual-specific networks for prediction,No clinical applications
+15,Kobylinska (2024),Exploration of the Rashomon Set Assists Trustworthy Explanations for Medical Data,No clinical applications
+16,Ibrahim (2023),Green electrochemical approach for simultaneous quantification of Dapoxetine hydrochloride and Tadalafil integrating design of experiments and functional principal component analysis,No clinical applications
+17,Matsui (2023),Unbiased estimation of the population-level motor module,No clinical applications
+18,Consagra (2024),Efficient multidimensional functional data analysis using marginal product basis systems,No clinical applications
+19,Yildirim (2025),Health Prognostics in Multi-sensor Systems Based on Multivariate Functional Data Analysis,No clinical applications
+20,Qiao (2024),Functional knockoffs selection with applications to functional data analysis in high dimensions,No clinical applications
+21,Chen (2023),A functional data approach for continuous-time analysis subject to modeling discrepancy under infill asymptotics,No clinical applications
+22,Crainiceanu (2024),Multilevel Functional Data Analysis,No clinical applications
+23,Crainiceanu (2024),Clustering of Functional Data,No clinical applications
+24,Crainiceanu (2024),Functional Principal Components Analysis,No clinical applications
+25,Crainiceanu (2024),Survival Analysis with Functional Predictors,No clinical applications
+26,Shi (2023),Cost-Sensitive Learning for Medical Insurance Fraud Detection With Temporal Information,No clinical applications
+27,Zavadskiy (2024),A functional Hidden Markov Model to incorporate dynamics into Bayesian optimal stopping problems: Helping physicians manage traumatic brain injuries,No clinical applications
+28,Chatterjee (2023),Functional classwise principal component analysis: a classification framework for functional data analysis,No clinical applications
+29,Wang (2024),Optimal Classification for Functional Data,No clinical applications
+30,Hai (2023),Bayesian linear mixed model with multiple random effects for prediction analysis on high-dimensional multi-omics data.,No clinical applications
+31,Rao (2023),Nonlinear Functional Modeling Using Neural Networks,No clinical applications
+32,Wu (2023),Shape-based functional data analysis,No clinical applications
+33,Wu (2023),Clustering Spatially Correlated Functional Data With Multiple Scalar Covariates.,No clinical applications
+34,Shah (2024),Effect of Gait Speed and Dynamic Time-Warping on the prediction of Lower-Limb Joint Angles,Not FDA
+35,Karas (2024),Effects of an orexin receptor 2-selective agonist on blood pressure nocturnal dipping profile in patients with narcolepsy type 1,Not FDA
+36,Haas (2024),Precision Psychiatry for PTSD: Progress on Multimodal Modeling Efforts,Not FDA
+37,Lu (2024),Graph analysis based on SCN reveals novel neuroanatomical targets related to tinnitus distress,Not FDA
+38,Rojas (2024),Empirical comparison of deep learning models for fNIRS pain decoding,Not FDA
+39,Markström (2024),Strategies for knee stabilising and pivot-shift avoidance in a step-down and cross-over task observed sub-acutely after anterior cruciate ligament reconstruction,Not FDA
+40,Fanning (2024),"Associations Between Patterns of Daily Stepping Behavior, Health-Related Quality of Life, and Pain Symptoms Among Older Adults with Chronic Pain: A Secondary Analysis of Two Randomized Controlled Trials",Not FDA
+41,Young (2024),Normative modeling of thalamic nuclear volumes,Not FDA
+42,Das (2023),Comparison of markerless and marker-based motion capture systems using 95% functional limits of agreement in a linear mixed-effects modelling framework,Not FDA
+43,Jahangiri (2023),A wide range of missing imputation approaches in longitudinal data: a simulation study and real data analysis,Not FDA
+44,Zou (2023),Accurate prediction of HCC risk after SVR in patients with hepatitis C cirrhosis based on longitudinal data,Not FDA
+45,Feng (2023),Machine learning classifiers and associations of cognitive performance with hippocampal subfields in amnestic mild cognitive impairment,Not FDA
+46,Rod (2023),"Cohort profile: The<i>SmartSleep Study</i>, Denmark, combining evidence from survey, clinical and tracking data",Not FDA
+47,Vivekanand (2023),"Statistical Analysis of SARS-CoV-2 Using Wastewater-Based Data of Stockholm, Sweden",Not FDA
+48,Yadav (2023),Machine Learning for Rhabdomyosarcoma Whole Slide Images Sub-type Classification,Not FDA
+49,Merlo (2023),Detecting early signals of COVID-19 outbreaks in 2020 in small areas by monitoring healthcare utilisation databases: first lessons learned from the Italian Alert_CoV project,Not FDA
+50,Demir (2023),Topology-Aware Focal Loss for 3D Image Segmentation,Not FDA
+51,Lawless (2023),Viral Genetic Determinants of Prolonged Respiratory Syncytial Virus Infection among Infants in a Healthy Term Birth Cohort,Not FDA
+52,Moon (2023),USING PERSISTENT HOMOLOGY TOPOLOGICAL FEATURES TO CHARACTERIZE MEDICAL IMAGES: CASE STUDIES ON LUNG AND BRAIN CANCERS,Not FDA
+53,Beran (2023),"On seasonal functional modeling under strong dependence, with applications to mechanically ventilated breathing activity",Not FDA
+54,Fairclough (2023),Reference values for wrist-worn accelerometer physical activity metrics in England children and adolescents.,Not FDA
+55,Lefol (2023),TiSA: TimeSeriesAnalysis-a pipeline for the analysis of longitudinal transcriptomics data.,Not FDA
+56,Lee (2025),Unexpected inversion perturbation during a single-leg landing in patients with chronic ankle instability,Unavailable full text
+57,Eniyandunmo (2025),Utilising raw psycho-physiological data and functional data analysis for estimating mental workload in human drivers,Unavailable full text
+58,Dehcheshmeh (2024),Kinematic Analysis of Pelvic and Lower Limb Joints during Stand-to-sit Movement in Individuals with Chronic Low Back Pain: A cross-sectional study,Unavailable full text
+59,Kheiri (2023),Functional ANOVA for Upper Extremity Fatigue Analysis during Dynamic Order Picking,Unavailable full text
+60,Wooten (2025),Location smoothed Bayesian additive regression trees: A method for interpretable and robust quality assurance of organ contours in radiotherapy treatment planning,Unavailable full text
+61,Seong (2025),Classification of multivariate functional data with an application to ADHD fMRI data,Unavailable full text
+62,Volpatto (2025),Functional Data Analysis and¬†Clustering of¬†Haematological Parameters in¬†SARS-CoV-2 Patients,Unavailable full text
+63,Koner (2024),PROFIT: projection-based test in longitudinal functional data,Unavailable full text
